@@ -28,7 +28,7 @@ X-axis are months of campaign launch date from May 2009 to March 2017.
 Campaign goals are all assumed to be in whole numbers.
 
 ### Challenges and Difficulties Encountered
-**Disclaimer:** The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
+
 
 **Opporunities for Improvement:** The dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. 
 
@@ -38,6 +38,10 @@ Campaign goals are all assumed to be in whole numbers.
 
 - What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
+- Limitations of the Dataset:
+  - The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
+  - When analyzing datasets by month, April was analyzed fewer than any other month, while incomplete months for May 2009 and March 2017 were analyzed.
+  - The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. 
+
 
 - What are some other possible tables and/or graphs that we could create?
