@@ -46,12 +46,13 @@ Based on the two graphs combined, the recommendation for the campaign would be e
 
 - Limitations of the Dataset:
   - The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
-  - **The analysis was not based on regions, and there was no standard currecny established for conversion**
+  - **All regions were analyzed without converting the pledged and goal amounts to a standard currency**
   - When analyzing datasets by month, April was analyzed fewer than any other month, while incomplete months for May 2009 and March 2017 were analyzed.
   - The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. 
 
 
-- Other possible tables and/or graphs that we could create:
-  - 
+- Other possible tables and/or graphs that could be created:
+  - Add additional filters for regions by country or continent
+  - Find pledged:goal ratio to determine the spread/variance of failed and successful campaigns. I.e. do most failed campaigns even come close to their goal? 
 
 
