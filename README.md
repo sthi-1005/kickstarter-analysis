@@ -29,8 +29,7 @@ Campaign goals are all assumed to be in whole numbers.
 
 ### Challenges and Difficulties Encountered
 
-
-**Opporunities for Improvement:** The dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. 
+Opporunities for Improvement: the dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. If the dataset was larger and the analysis required was more complex, it would be better. 
 
 ## Results
 
@@ -39,7 +38,8 @@ Campaign goals are all assumed to be in whole numbers.
     - However, these 3 months are the most busiest/competitives months as they also see the highest number of failed campaigns. 
   - Februray, April, and November are also great choices, with similar success ratios to the 3 months above but with fewer campaigns to compete against.
 
-- What can you conclude about the Outcomes based on Goals?
+- Conclusion drawn from Outcomes based on Goals
+  - For most projects, it is recommended that the goal does not exceed $14,999 unless the campaign is a "big hitter", in which a goal between 35,000 and 39,999 will be ideal.
 
 - Limitations of the Dataset:
   - The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
