@@ -54,6 +54,8 @@ Based on the two graphs combined, the recommendation for the campaign would be e
 
 - Other possible tables and/or graphs that could be created:
   - Add additional filters for regions by country or continent
-  - Find pledged:goal ratio to determine the spread/variance of failed and successful campaigns. I.e. do most failed campaigns even come close to their goal? 
+  - Find pledged:goal ratio to determine the spread/variance of failed and successful campaigns. I.e.
+    - Do most failed campaigns even come close to their goal? 
+    - If the campaign is successful, how much on average do it exceed its goal?
 
 
