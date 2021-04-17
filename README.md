@@ -47,7 +47,7 @@ Based on the two graphs combined, the recommendation for the campaign would be e
 
 - Limitations of the Dataset:
   - The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
-  - **All regions were analyzed without converting the pledged and goal amounts to a standard currency**
+  - **Campaigns from various countries were analyzed without converting the pledged and goal amounts to a standard currency**
   - When analyzing datasets by month, April was analyzed fewer than any other month, while incomplete months for May 2009 and March 2017 were analyzed.
   - The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. 
 
