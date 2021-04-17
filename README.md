@@ -13,23 +13,24 @@ Visualize trends in campaign categories/subcategories based on different paramet
 - Campaign Goal Amount. Example results using the "Plays" sub-category will be provided.
 
 ## Analysis and Challenges
+The folllowing charts are intended to adhere, as close as possible, to the requested layout.
+
 
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png) <br/>
 
-Chart has been uploaded to match requested lay out as close as possible.
-
-Y-axis represents percentages
-X-axis are months of campaign laucnh date from May 2009 to March 2017.
+Y-axis values represent percentages.
+X-axis are months of campaign launch date from May 2009 to March 2017.
 
 ### Analysis of Outcomes Based on Goals
-![Play Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
+![Play Outcomes vs Goals](Resources/Outcomes_vs_Goals.png) <br/>
+Campaign goals are all assumed to be in whole numbers.
+
 ### Challenges and Difficulties Encountered
-**Disclaimer:** The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. The total dataset encompasses 4115 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
+**Disclaimer:** The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
 
-
-
+**Opporunities for Improvement:** The dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. 
 
 ## Results
 
