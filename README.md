@@ -2,11 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 
 # Kickstarting with Excel
-Basic excel functions will be used to explore Kickstarter Data.
 
 ## Overview of Project
-Basic excel formulas/functionalities within excel such as pivot tables, charts, sum(), and countifs() on Kickstarter dataset
-Specifically, data such as categories, results, goals, total pledged, and date of creations will be analyzed.
+Analyze Kickstarter dataset using basic excel formulas/functionalities within excel such as pivot tables, charts, sum(), and countifs().
+Data analyzed include: campaign category, goals, pledged results, and campaign laucnh dates.
 
 ### Purpose
 Visualize trends in campaign categories/subcategories based on different parameters, such as:
