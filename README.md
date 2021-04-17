@@ -35,6 +35,8 @@ Possible Challenges and Difficulties that could be encountered: due to the numbe
 
 ## Results
 
+Based on the two graphs combined, the recommendation for the campaign would be either: 1) Launch a big campaign in May with goal between $35,000 to $39,999, or 2) Launch a small campaign in November, with a goal less than $14,999. Additional conclusions below:
+
 - Two conclusions that can draw about the Outcomes based on Launch Date:
   - May, June, and July Launch Dates are most apparent as the "best" month for a successful campaign in both the # and % of successful campaigns.
     - However, these 3 months are the most busiest/competitives months as they also see the highest number of failed campaigns. 
@@ -51,6 +53,6 @@ Possible Challenges and Difficulties that could be encountered: due to the numbe
 
 
 - Other possible tables and/or graphs that we could create:
-  - Based on the two graphs combined, the recommendation for the campaign would be either: 1) Launch a big campaign in May with goal between $35,000 to $39,999, or 2) Launch a small campaign in November, with a goal less than $14,999.
+  - 
 
 
