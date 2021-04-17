@@ -2,10 +2,11 @@
 Performing analysis on Kickstarter data to uncover trends
 
 # Kickstarting with Excel
-Analyze Kickstarter dataset using basic excel formulas/functionalities within excel such as pivot tables, charts, sum(), and countifs().
 
 ## Overview of Project
-A play is close to hitting its fundraising goal, and would like to know how it fared to similar campaigns. Specifically, it wants to identify trends in campaign launch dates and goals.
+A play is approaching its fundraising goal, and one of its members would like to know how it fared to similar campaigns.
+
+Basic excel formulas/functionalities such as pivot tables, charts, sum(), and countifs() will be performed on Kickstarter data from 4114 campaigns in 21 countries between May 17th, 2009 and March 15, 2017 to identify any trends.
 
 ### Purpose
 Visualize trends in campaign categories/subcategories based on different parameters, such as:
