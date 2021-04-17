@@ -9,9 +9,9 @@ Basic excel formulas/functionalities within excel such as pivot tables, charts, 
 Specifically, data such as categories, results, goals, total pledged, and date of creations will be analyzed.
 
 ### Purpose
-Visualize trends in campaign categories/subcategories based on:
-*launch date. Example results using campaign the "Theater" category will be provided.
-*Goals. Example results using the "Plays" sub-category will be provided.
+Visualize trends in campaign categories/subcategories based on different parameters, such as:
+- Campaign Launch Date. Example results using campaign the "Theater" category will be provided.
+- Campaign Goal Amount. Example results using the "Plays" sub-category will be provided.
 
 ## Analysis and Challenges
 
