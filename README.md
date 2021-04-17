@@ -16,8 +16,9 @@ Visualize trends in campaign categories/subcategories based on different paramet
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![Play Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
