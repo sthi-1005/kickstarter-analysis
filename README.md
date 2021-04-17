@@ -29,8 +29,6 @@ Campaign goals are all assumed to be in whole numbers.
 
 ### Challenges and Difficulties Encountered
 
-Opporunities for Improvement: the dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. If the dataset was larger and the analysis required was more complex, it would be better. 
-
 Possible Challenges and Difficulties that could be encountered: due to the number of potential variables and parameters available, it was very helpful that the requester specified what relationships they cared most about (launch date and goals).
 
 ## Results
