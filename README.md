@@ -17,9 +17,18 @@ Visualize trends in campaign categories/subcategories based on different paramet
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
+Chart has been uploaded to match requested lay out as close as possible.
+
+Y-axis represents percentages
+X-axis are months of campaign laucnh date from May 2009 to March 2017.
+
 ### Analysis of Outcomes Based on Goals
 ![Play Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
+**Disclaimer:** The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. The total dataset encompasses 4115 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
+
+
+
 
 ## Results
 
