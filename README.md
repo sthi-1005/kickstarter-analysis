@@ -16,7 +16,8 @@ Visualize trends in campaign categories/subcategories based on different paramet
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png) <br/>
+
 Chart has been uploaded to match requested lay out as close as possible.
 
 Y-axis represents percentages
