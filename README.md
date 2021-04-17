@@ -20,7 +20,7 @@ The folllowing charts are intended to adhere, as close as possible, to the reque
 
 ![Theatre Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png) <br/>
 
-Y-axis values represent percentages.
+Y-axis values represent the number of each campaign result.
 X-axis are months of campaign launch date from May 2009 to March 2017.
 
 ### Analysis of Outcomes Based on Goals
@@ -34,7 +34,10 @@ Campaign goals are all assumed to be in whole numbers.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Two conclusions that can draw about the Outcomes based on Launch Date:
+  - May, June, and July Launch Dates are most apparent as the "best" month for a successful campaign in both the # and % of successful campaigns.
+    - However, these 3 months are the most busiest/competitives months as they also see the highest number of failed campaigns. 
+  - Februray, April, and November are also great choices, with similar success ratios to the 3 months above but with fewer campaigns to compete against.
 
 - What can you conclude about the Outcomes based on Goals?
 
