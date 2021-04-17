@@ -2,10 +2,10 @@
 Performing analysis on Kickstarter data to uncover trends
 
 # Kickstarting with Excel
+Analyze Kickstarter dataset using basic excel formulas/functionalities within excel such as pivot tables, charts, sum(), and countifs().
 
 ## Overview of Project
-Analyze Kickstarter dataset using basic excel formulas/functionalities within excel such as pivot tables, charts, sum(), and countifs().
-Data analyzed include: campaign category, goals, pledged results, and campaign laucnh dates.
+A play is close to hitting its fundraising goal, and would like to know how it fared to similar campaigns. Specifically, it wants to identify trends in campaign launch dates and goals.
 
 ### Purpose
 Visualize trends in campaign categories/subcategories based on different parameters, such as:
@@ -31,6 +31,8 @@ Campaign goals are all assumed to be in whole numbers.
 
 Opporunities for Improvement: the dataset was sufficiently small to not require the conversion of range to table and also to not require the use of dynamic formulas. If the dataset was larger and the analysis required was more complex, it would be better. 
 
+Possible Challenges and Difficulties that could be encountered: due to the number of potential variables and parameters available, it was very helpful that the requester specified what relationships they cared most about (launch date and goals).
+
 ## Results
 
 - Two conclusions that can draw about the Outcomes based on Launch Date:
@@ -39,7 +41,8 @@ Opporunities for Improvement: the dataset was sufficiently small to not require 
   - Februray, April, and November are also great choices, with similar success ratios to the 3 months above but with fewer campaigns to compete against.
 
 - Conclusion drawn from Outcomes based on Goals
-  - For most projects, it is recommended that the goal does not exceed $14,999 unless the campaign is a "big hitter", in which a goal between 35,000 and 39,999 will be ideal.
+  - For most projects, the lower the goal, the higher the chances of success for campaigns up to $14,999.
+  - If the campaign goal is greater than $14,999, the campaign should find a way to make their goal suitable to be between $35,000 to $39,999.
 
 - Limitations of the Dataset:
   - The total dataset encompasses 4114 campaigns, from 21 countries, laucnhed between May 17th, 2009 and March 15, 2017.
@@ -47,4 +50,7 @@ Opporunities for Improvement: the dataset was sufficiently small to not require 
   - The Kickstarter dataset used was not obtained directly from Kickstarter and the completeness of this dataset is not known. 
 
 
-- What are some other possible tables and/or graphs that we could create?
+- Other possible tables and/or graphs that we could create:
+  - Based on the two graphs combined, the recommendation for the campaign would be either: 1) Launch a big campaign in May with goal between $35,000 to $39,999, or 2) Launch a small campaign in November, with a goal less than $14,999.
+
+
